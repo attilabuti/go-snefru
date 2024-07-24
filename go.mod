@@ -1,3 +1,3 @@
-module github.com/maoxs2/go-snefru
+module github.com/attilabuti/go-snefru
 
 go 1.14
